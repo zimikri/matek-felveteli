@@ -1,1 +1,1 @@
-# matek-felveteli
+# Matek felvételi felkészülés
