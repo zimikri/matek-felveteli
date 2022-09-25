@@ -13,7 +13,7 @@
 
 ### Négyszögek
 
-![Négyszögek](../assets/szamhalmazok.svg)
+![Négyszögek](../assets/sikidomok.svg)
 <br>
 
 ## Hasznos linkek
